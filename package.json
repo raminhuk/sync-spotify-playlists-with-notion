@@ -1,0 +1,12 @@
+{
+    "name": "spotify_integration",
+    "version": "1.0.0",
+    "main": "src/main.js",
+    "scripts": {
+        "start": "node src/main.js"
+    },
+    "dependencies": {
+        "@notionhq/client": "^1.0.4",
+        "dotenv": "^8.6.0"
+    }
+}
